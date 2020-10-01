@@ -38,7 +38,7 @@
     "eslint": "^2.8.0",
     "eslint-config-airbnb": "^6.1.0",
     "mocha": "^2.4.5",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.14.1",
     "rollup": "^0.25.4",
     "rollup-plugin-buble": "^0.5.0",
     "rollup-plugin-commonjs": "^3.1.0",
